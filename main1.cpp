@@ -1,5 +1,5 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"This is first program";
+    cout<<"This is first ";
 }
